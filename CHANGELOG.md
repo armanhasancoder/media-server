@@ -4,4 +4,6 @@ This file tracks MEDIA SERVER updates.
 
 ## 2026-05-30
 - Added `CHANGELOG.md` to track updates.
-- change file name clone-series home page.webp to clone-series-home-page.webp
+- Change file name clone-series home page.webp to clone-series-home-page.webp
+- Add license.md file 
+- Add assets.md file
